@@ -3,7 +3,7 @@ name: Commit Logger
 on:
   push:
     branches: ["main"]
-  workflow_dispatch: # Permet activació manual
+  #workflow_dispatch: # Permet activació manual
 
 jobs:
   log-commits:
