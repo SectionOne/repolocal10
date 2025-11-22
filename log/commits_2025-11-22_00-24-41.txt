@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+a17de80 - GitHub Actions, 34 hours ago : Auto: Add latest commits log
+54f2401 - Oriol, 34 hours ago : Add initial content to text.txt
+07ca56f - Oriol, 2 days ago : Add script to log last 3 Git commits to a file
